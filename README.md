@@ -24,4 +24,4 @@ It has a user interface that displays plants in your collection and links them t
  * UI: David Yun 
  * Hardware: Ollie Vargas 
 
-Video Demo: [Gardenia](https://drive.google.com/open?id=1z_gcBlMEFkolejzxaPdzpK7sv8M6Agpg){:target="_blank" rel="noopener"}
+Video Demo: <a href="https://drive.google.com/open?id=1z_gcBlMEFkolejzxaPdzpK7sv8M6Agpg" target="_blank">Gardenia</a>
