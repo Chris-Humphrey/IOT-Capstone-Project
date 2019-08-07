@@ -1,4 +1,6 @@
 <h1>Gardenia</h1>
+Live Demo: 
+Video Demo: <a href="https://drive.google.com/open?id=1z_gcBlMEFkolejzxaPdzpK7sv8M6Agpg" target="_blank">Gardenia</a>
 
 <h2>Description</h2>
 Gardenia is an application that uses Raspberry pi and a soil moisture sensor to send notifications to your email based on the moisture level.
@@ -23,5 +25,3 @@ It has a user interface that displays plants in your collection and links them t
  * Frontend and Backend: Chris Humphrey and Tarek Al Beb
  * UI: David Yun 
  * Hardware: Ollie Vargas 
-
-Video Demo: <a href="https://drive.google.com/open?id=1z_gcBlMEFkolejzxaPdzpK7sv8M6Agpg" target="_blank">Gardenia</a>
