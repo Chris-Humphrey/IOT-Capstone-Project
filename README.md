@@ -1,5 +1,5 @@
 <h1>Gardenia</h1>
-<a href="https://chris-humphrey.github.io/IOT-Capstone-Project/">Live Demo</a>
+<a href="https://chris-humphrey.github.io/IOT-Capstone-Project/">Live Demo</a><br>
 <a href="https://drive.google.com/open?id=1z_gcBlMEFkolejzxaPdzpK7sv8M6Agpg" target="_blank">Video Demo</a>
 
 <h2>Description</h2>
