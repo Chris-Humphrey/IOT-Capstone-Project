@@ -125,7 +125,7 @@ render() {
           <div className="ui grid center aligned">
               <Header as="h1">Search Plants</Header><br/>
           <Form onSubmit={this.addToCollection}>
-            <div class="ui icon input">
+            <div className="ui icon input">
                 <input
                     type="text"
                     style={{paddingRight: '20px'}}
@@ -133,7 +133,7 @@ render() {
                     placeholder="Plant Name"
                     ref={ input => this.plantNameSearchTerm = input}
                 />
-                <i aria-hidden="true" class="search icon"></i>
+                <i aria-hidden="true" className="search icon"></i>
             </div>
             <Button type="submit">
             Add To Collection

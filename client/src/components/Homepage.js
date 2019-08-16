@@ -26,7 +26,7 @@ const getWidth = () => {
 const HomepageHeading = ({ mobile }) => (
 
         <Container text className="fade-in">
-            <Image src={myImage} size="massive" centered fluid spaced />
+            <Image src={myImage} size="massive" centered spaced />
             {/* <Header
             as='h1'
             content='Gardenia'
