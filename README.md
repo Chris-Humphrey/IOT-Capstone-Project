@@ -10,7 +10,7 @@ It has a user interface that displays plants in your collection and links them t
  * React.js
  * Redux
  * Node.js & Express.js
- * Sequelize & postgreSql
+ * Sequelize & PostgreSQL
  * Semantic-UI with customized CSS3
  * AJAX
  * Axios
@@ -18,10 +18,10 @@ It has a user interface that displays plants in your collection and links them t
 
  ## Harware
  * Raspberry pi 3b+
- * YL38 Moisture sensor
+ * YL38 moisture sensor
  * YL38 69 
 
 ## Collaborators
  * Frontend and Backend: Chris Humphrey and Tarek Al Beb
- * UI: David Yun 
+ * UI/UX: David Yun 
  * Hardware: Ollie Vargas 
